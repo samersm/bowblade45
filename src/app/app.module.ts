@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BloodborneComponent } from './pages/bloodborne/bloodborne.component';
 import { NavbarComponent } from './pages/navbar/navbar.component';
+import { DungeonsComponent } from './pages/dungeons/dungeons.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BloodborneComponent,
-    NavbarComponent
+    NavbarComponent,
+    DungeonsComponent
   ],
   imports: [
     BrowserModule,

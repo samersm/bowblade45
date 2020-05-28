@@ -2,12 +2,17 @@
     - Add Header, Title & Logo
     - Add the Page Container
 
+* Add Dungeons Codes in the Website
+    - Add FRC as Tags
+    - Add Layers Dropdown
+    - Add Active/Not Active Votes
+    - Add Filter By Chalice Type
+
+* Link the Database to Firebase 
+
 * Add Bloodborne Weapons Table
     - Include the Weapon Price
     - Include the Weapon Details
 
 * Add Bloodborne Characters
     - Include the Character Picture
-
-* Link the Database to Firebase 
-
