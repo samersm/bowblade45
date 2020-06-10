@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "bloodborne-42421": {
+      "hosting": {
+        "bowblade45": [
+          "bloodborne-42421"
+        ]
+      }
+    }
+  }
+}
