@@ -11,6 +11,7 @@ import { BloodborneComponent } from './pages/bloodborne/bloodborne.component';
 import { NavbarComponent } from './pages/navbar/navbar.component';
 import { DungeonsComponent } from './pages/dungeons/dungeons.component';
 import { AddDungeonComponent } from './pages/dungeons/add-dungeon/add-dungeon.component';
+import { DialogsComponent } from './pages/dialogs/dialogs.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { AddDungeonComponent } from './pages/dungeons/add-dungeon/add-dungeon.co
     BloodborneComponent,
     NavbarComponent,
     DungeonsComponent,
-    AddDungeonComponent
+    AddDungeonComponent,
+    DialogsComponent
   ],
   imports: [
     BrowserModule,
